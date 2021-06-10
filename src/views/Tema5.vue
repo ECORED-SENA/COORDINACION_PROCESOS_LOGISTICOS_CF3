@@ -51,7 +51,7 @@
               img(src='@/assets/curso/img48.svg', alt='Texto que describa la imagen')
           .col-lg-6.mb-4.mb-md-0
             p.mb-0 Servicio digital al cliente cada vez más popular. Está compuesto por varias características, como que debe ser conversacional y en tiempo real, al igual que la atención telefónica. Pero puede ser atendido por un agente o por un robot.
-    .separador
+    .separador-custom
     #t_5_1
     .titulo-segundo
       h2 5.1 Respuesta eficiente al cliente (ECR)
@@ -103,7 +103,7 @@
               li 
                 i.fas.fa-angle-right(style="color: #FE7062")
                 | Abre las puertas a las empresas para aumentar sus negocios a un ritmo mayor que sin ECR.
-    .separador
+    .separador-custom
     #t_5_2
     .titulo-segundo
       h2 5.2 Servicio postventa
@@ -154,7 +154,7 @@
           .col-6
             figure
               img(src='@/assets/curso/img53.svg', style="width: 350px; margin: auto;")
-    .separador
+    .separador-custom
     #t_5_3
     .titulo-segundo
       h2 5.3 La logística del servicio al cliente - Output cadena de suministros

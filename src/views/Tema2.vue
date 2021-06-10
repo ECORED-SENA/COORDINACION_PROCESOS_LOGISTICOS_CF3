@@ -13,7 +13,7 @@
       .col-lg-4
         figure
           img(src='@/assets/curso/img15.svg', style="width: 450px; margin: auto;")
-    .separador
+    .separador-custom
     #t_2_1
     .titulo-segundo
       h2 2.1	Etapas de la planeación estratégica
@@ -45,7 +45,7 @@
                 li 
                   i.fas.fa-atom(style="color: #FE7062")
                   | No es muy recomendable tener a un solo proveedor y hacerle todo el pedido que se necesita.
-    .separador
+    .separador-custom
     #t_2_2
     .titulo-segundo
       h2 2.2	Filosofía corporativa estratégica
@@ -127,7 +127,7 @@
       .tarjeta.color-acento-botones--borde.p-4(titulo="Elementos a validar en una propuesta de valor")
         figure
           img(src='@/assets/curso/img17.svg', style="width: 700px; margin: auto;")
-    .separador
+    .separador-custom
     #t_2_3
     .titulo-segundo
       h2 2.3	Estrategias organizacionales

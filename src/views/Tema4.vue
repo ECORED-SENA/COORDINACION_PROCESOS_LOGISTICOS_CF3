@@ -42,7 +42,7 @@
       .col-lg-5
         figure
           img(src='@/assets/curso/img39.svg', style="width: 450px; margin: auto;")
-    .separador
+    .separador-custom
     #t_4_1
     .titulo-segundo
       h2 4.1 Elementos de la trazabilidad
@@ -63,7 +63,7 @@
       div(titulo="Comunicación")
         p La administración de la trazabilidad incluye la asociación de un flujo de información con el flujo físico de mercaderías.
         p Para asegurar la continuidad del flujo de información, se deberá identificar las unidades logísticas o lotes rastreados de la cadena de producción, permitiendo que se aplique a la trazabilidad. La conexión entre el flujo de información y el flujo físico de mercaderías queda asegurada al referirse a los identificadores de ambos tipos de flujos: el número de aviso de despacho, el código seriado de contenedor, el número de embarque, etc.
-    .separador
+    .separador-custom
     #t_4_2
     .titulo-segundo
       h2 4.2 Trazabilidad en el servicio cliente

@@ -15,7 +15,7 @@
       .col-lg-6
         figure
           img(src='@/assets/curso/img55.svg', style="width: 550px; margin: auto;")
-    .separador
+    .separador-custom
     #t_6_1
     .titulo-segundo
       h2 6.1 Satisfacción del cliente
@@ -62,7 +62,7 @@
         .row.align-items-start
           .col-12
             p Son reuniones periódicas individuales con clientes seleccionados en las que se tratan una gran selección de aspectos relacionados con nuestro producto o servicio de una manera formal para poder identificar expectativas reales del cliente.
-    .separador
+    .separador-custom
     #t_6_2
     .titulo-segundo
       h2 6.2 Técnicas de evaluación del servicio
@@ -97,7 +97,7 @@
               tr
                 td.bg-color1 Indicador Net Promoter Score
                 td.bg-color1 Ofrece la posibilidad de conocer si el cliente está satisfecho con el servicio y recomendará a la empresa.
-    .separador
+    .separador-custom
     #t_6_3
     .titulo-segundo
       h2 6.3 Indicadores de gestión del servicio al cliente (medición del servicio)
@@ -162,7 +162,7 @@
                 td.bg-color1 Tasa de retención de clientes
                 td.bg-color1 Número de clientes al final del periodo – Número de nuevos clientes/ Número de clientes al inicio del periodo X 100
                 td.bg-color1 Ayuda a conocer si los clientes se encuentran contentos con el servicio y se mantendrán fieles a la marca.
-    .separador
+    .separador-custom
     #t_6_4
     .titulo-segundo
       h2 6.4 Sistemas de Gestión de Calidad-ISO 9001
@@ -191,7 +191,7 @@
       li
         i.fas.fa-check(style="color: #FE7062")
         | Mejora de la comunicación interna, satisfacción de los trabajadores.
-    .separador
+    .separador-custom
     #t_6_5
     .titulo-segundo
       h2 6.5 Mejora continua

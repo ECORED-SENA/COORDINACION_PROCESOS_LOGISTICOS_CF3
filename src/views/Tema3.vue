@@ -27,7 +27,7 @@
         .h5 Experiencia del cliente
         p Es la suma de todos los contactos, desde el descubrimiento e investigación de un producto hasta su compra, pasando por su uso real y su seguimiento por parte de la marca. No se trata de una sola interacción, sino de todo el ciclo de vida del cliente y de todos los puntos de contacto que éste tiene con un producto o servicio.
     p La manera de interactuar con un cliente es muy importante para lograr una mejor experiencia, ésta busca proporcionarle un buen servicio o producto, que logre cumplir con sus expectativas. El caso contrario es, si se otorga un mal servicio o se vende un producto que no cumple con lo que el cliente esperaba, logra provocar una mala experiencia, que se traduce en bajas ventas, pérdida de clientes y mala reputación en el voz a voz análogo y digital, lo que también puede ocasionar que los que todavía no son clientes, prefieran irse a la competencia.
-    .separador
+    .separador-custom
     #t_3_1
     .titulo-segundo
       h2 3.1 Políticas de servicio al cliente
@@ -49,7 +49,7 @@
       .col-lg-6
         .cajon1.color-primario1.p-4.mb-4
           p.mb-0 Un mal servicio al cliente genera pérdida de ventas y, por tanto, de beneficios a la empresa; por otro lado, un nivel de servicio extremadamente alto y casi personalizado tiene un costo elevado para la empresa y solo es justificable si se demuestran grandes incrementos en las ventas y los beneficios de ésta. El servicio al cliente debe estar centrado en la capacidad de la empresa de pagar por un recurso de capital humano consciente de su misión y bien capacitado.
-    .tarjeta.color-acento-botones.p-4.p-md-5.mb-5
+    .tarjeta.color-acento-botones2.p-4.p-md-5.mb-5
       .row.justify-content-around.align-items-center
         .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
           img(src="@/assets/curso/img25.svg")
@@ -60,7 +60,7 @@
           a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
             span(style="color: #000000 !important") Descargar
             i(style="color: #000000 !important").fas.fa-file-download
-    .separador
+    .separador-custom
     #t_3_2
     .titulo-segundo
       h2 3.2	Importancia del servicio al cliente y proveedores
@@ -71,7 +71,7 @@
       .col-lg-8
         p El servicio al cliente es una de las prioridades en una empresa, ya que, si un cliente queda satisfecho con el servicio y atención que se le brinda y adicionalmente el producto es excelente, ésta persona regresará a comparar la empresa y difundirá buena información a sus contactos sobre la gran experiencia que ha tenido con la empresa, ese elemento de los prosumidores hoy es una realidad digital, alguien que sea bien atendido puede publicar una buena foto con comentario positivo en una red social influenciando a sus seguidores y amigos esto es una ventaja comparativa importante porque puede hacer la diferencia en cualquier empresa o negocio.
         p.mb-0 El servicio al cliente es una herramienta que tiene la empresa para catapultar su crecimiento en manera exponencial, está demostrado que la mejor propuesta de valor de cualquier empresa, es el servicio, inclusive por sobre el precio comercial y las promociones.
-    .separador
+    .separador-custom
     #t_3_3
     .titulo-segundo
       h2 3.3 Fidelización de los clientes
@@ -104,7 +104,7 @@
               img(src='@/assets/curso/img29.svg', alt='Texto que describa la imagen')
         .h2.text-center Cuantitativamente
         p se ha demostrado el alto costo que implica conseguir nuevos clientes. Se estima que conseguir un cliente nuevo conlleva diez veces el costo de conservar un cliente.
-    .separador
+    .separador-custom
     #t_3_4
     .titulo-segundo
       h2 3.4 Comunicación con los clientes
@@ -161,7 +161,7 @@
           p.text-center 
             b Fiabilidad
           p.text-center Es la habilidad para ejecutar el servicio prometido sin errores.
-    .separador
+    .separador-custom
     #t_3_5
     .titulo-segundo
       h2 3.5	CRM- Administración de las relaciones con los clientes
@@ -222,7 +222,7 @@
                   figure
                     img(src='@/assets/curso/img36.svg', alt='Texto que describa la imagen')
               .h3.text-center Expande y personaliza conforme el crecimiento de su empresa
-    .separador
+    .separador-custom
     #t_3_6
     .titulo-segundo
       h2 3.6	Producción de servicios - Servucción
