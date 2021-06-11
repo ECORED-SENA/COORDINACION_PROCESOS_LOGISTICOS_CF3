@@ -87,7 +87,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.5',
-            titulo: 'CRM- Administración de las relaciones con los clientes',
+            titulo: 'CRM - Administración de las relaciones con los clientes',
             hash: 't_3_5',
           },
           {
@@ -176,7 +176,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.4',
-            titulo: 'Sistemas de Gestión de Calidad-ISO 9001',
+            titulo: 'Sistemas de Gestión de Calidad - ISO 9001',
             hash: 't_6_4',
           },
           {
@@ -230,54 +230,32 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
+        cargo: 'Asesor metodológico y pedagógico',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Astrid Lili Puerta',
-        cargo: 'Experta temática',
-        centro: 'Centro Agropecuario de Buga',
-        regional: 'Regional valle',
+        nombre: 'Rafael Rodríguez Cuellar',
+        cargo: 'Instructor - Experto temático',
+        centro: 'Centro de la Industria, la Empresa y los Servicios',
+        regional: 'Regional Huila',
       },
       {
-        nombre: 'Javier Enrique Santana',
-        cargo: 'Experto temático',
-        centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Michael Andrés Cortés Caro',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Mauricio Jiménez Fajardo',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Manuel Alejandro Garzón Cárdenas',
-        cargo: 'Experto temático',
-        centro: 'Deutsche Gesellschaft für',
-        regional: 'Internationale Zusammenarbeit (GIZ)',
-      },
-      {
-        nombre: 'Liliana Victoria Morales Gualdrón',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Carlos Andrés Rodríguez',
-        cargo: 'Evaluador instruccional',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Revisora de estilo',
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro para la Industria de la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Luis Fernando Botero Mendoza',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor metodológico y pedagógico',
+        centro: 'Centro de Diseño y Metrología',
         regional: 'Regional Distrito Capital',
       },
     ],
@@ -290,28 +268,47 @@ export default {
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Integración de recursos y pruebas',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Blanca Flor Tinoco Torres',
+        cargo: 'Diseño web',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
-        cargo: 'Diseño web y Producción Audiovisual',
+        nombre: [
+          'Carlos Eduardo Garavito Parada',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'Ricardo Vásquez Arrovaye',
+          'Víctor Raúl Cárdenas Cáceres',
+          'Wilson Andrés Arenales Cáceres',
+          'Zuleidy Maria Ruiz Torres',
+        ],
+        cargo: 'Producción audiovisual',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Edward Leonardo Pico Cabra',
+        nombre: 'Jhon Jairo Urueta Álvarez',
         cargo: 'Desarrollo Front-End',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
+        cargo: 'Validación de diseño y contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
-        centro: 'Centro de comercio y servicios',
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
     ],
@@ -366,11 +363,11 @@ export default {
     },
     {
       referencia:
-        'Montoya, A. C. A. & Boyero S., M. R. (2013). El CRM como herramienta para el servicio al cliente en la organización. Revista Científica "Visión de Futuro", vol. 17, núm. 1,, 130 - 151.',
+        'Montoya, A. C. A. & Boyero S. M. R. (2013). El CRM como herramienta para el servicio al cliente en la organización. Revista Científica "Visión de Futuro", vol. 17, núm. 1, 130 - 151.',
     },
     {
       referencia:
-        'Mora, G., L. A. (2008). Indicadores de gestión logística. Bogotá: ECOE Ediciones.',
+        'Mora, G. L. A. (2008). Indicadores de gestión logística. Bogotá: ECOE Ediciones.',
     },
     {
       referencia:
@@ -408,7 +405,7 @@ export default {
     },
     {
       termino: 'Expectativa',
-      significado: 'esperanza de realizar o conseguir algo',
+      significado: 'esperanza de realizar o conseguir algo.',
     },
     {
       termino: 'Fidelización',
@@ -443,7 +440,7 @@ export default {
     {
       termino: 'Proveedor',
       significado:
-        'a aquella persona física o jurídica que provee o suministra profesionalmente de un determinado bien o servicio a otros individuos o sociedades, como forma de actividad económica y a cambio de una contraprestación.',
+        'Aquella persona física o jurídica que provee o suministra profesionalmente de un determinado bien o servicio a otros individuos o sociedades, como forma de actividad económica y a cambio de una contraprestación.',
     },
     {
       termino: 'Servicio',

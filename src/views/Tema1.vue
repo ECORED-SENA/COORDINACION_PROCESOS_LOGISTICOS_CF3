@@ -10,7 +10,7 @@
     p Para iniciar se dará una vista grande de lo que significa el cliente en el proceso de la planeación estratégica tal como se relaciona en el siguiente video:
     figure.my-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mXn7u_sUp-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Para entender estos conceptos con claridad se debe ajustar el concepto de cliente y proveedor como ejes del funcionamiento del proceso, se evidencia a continuación el cliente como centro y algunas formas de tratarlo:
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Definición" :icono="require('@/assets/curso/img1.svg')")
@@ -34,7 +34,7 @@
       .py-4.py-md-5(titulo="Principios para definir un cliente" :icono="require('@/assets/curso/img3.svg')")
         .row.align-items-start
           .col-lg-6.mb-4.mb-lg-0
-            p.mb-5 Dentro de este gran contexto y para entender mejor uno de los activos más importante de las empresas se tienen por parte de Albrecht & Beadford (2001) 7 principios que ayudan a definir al cliente:
+            p.mb-5 Dentro de este gran contexto y para entender mejor uno de los activos más importantes de las empresas se tienen por parte de Albrecht & Beadford (2001) 7 principios que ayudan a definir al cliente:
             ol.lista-ol--cuadro.lista-ol--separador
               li 
                 .lista-ol--cuadro__vineta
@@ -97,7 +97,7 @@
         .row.align-items-center
           .col-lg-6.mb-4.mb-lg-0
             p El tema de selección de proveedores es un proceso que está presente en toda organización, debido a que es necesaria la adquisición de bienes y servicios tales como maquinaria, materia prima, servicios de limpieza, etc.; por lo que este proceso debe ser enfocado a la búsqueda de calidad.
-            p La clave en la selección de los proveedores de un producto o servicio recae en la importancia de saber qué criterios utilizar para seleccionarlos, ya que se debe tomar en cuenta que tipo de impacto tendrán los productos o servicios que ofrecen y si este será un impacto positivo con la productividad, calidad y competitividad de la organización misma.
+            p La clave en la selección de los proveedores de un producto o servicio recae en la importancia de saber qué criterios utilizar para seleccionarlos, ya que se debe tomar en cuenta qué tipo de impacto tendrán los productos o servicios que ofrecen y si este será un impacto positivo con la productividad, calidad y competitividad de la organización misma.
             p En la figura se muestran los criterios recomendados por Castellanos (2015) para la selección de un proveedor.
           .col-lg-6
             figure
@@ -114,7 +114,7 @@
                 | Todo tipo de organización requiere de aprovisionarse, y las empresas o personas que suministran los productos o servicios se denominan proveedores.
               li 
                 i.fas.fa-atom
-                | Se deben realizar un proceso de búsqueda y selección de proveedores de bienes y servicios más adecuados a sus necesidades empresariales.
+                | Se debe realizar un proceso de búsqueda y selección de proveedores de bienes y servicios más adecuados a sus necesidades empresariales.
               li 
                 i.fas.fa-atom
                 | El propósito es establecer una lista de las empresas que fabrican los productos que se requieren para solicitar la información y luego seleccionar la más adecuada a las necesidades de la empresa.

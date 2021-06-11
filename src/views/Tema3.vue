@@ -34,7 +34,7 @@
     p.mb-4 Son un conjunto de códigos de conducta que guían el enfoque y la actitud del servicio brindado a los consumidores, este es un documento escrito de carácter informativo que indica los valores que la empresa quiere transmitir y los procedimientos para resolver problemas.
     .row.justify-content-center.mb-4
       .col-10
-        .cajon.color-primario.p-4.mb-4
+        .cajon.color-primario.p-4
           p.mb-0 Su objetivo es promover la coherencia en todas las interacciones. Es el camino para satisfacer las expectativas del cliente y cumplir con los objetivos de servicio en cualquier situación.
     p.mb-5 Con una política de servicio y atención cercana al cliente, éste tiene a la mano lo que puede esperar de su empresa en términos de servicio, si el cliente tiene claro lo que puede esperar, habrá menos probabilidades de que se sienta inconforme.
     .h4 Etapas de una política de servicio al cliente
@@ -55,9 +55,9 @@
           img(src="@/assets/curso/img25.svg")
         .col-md.col-lg-6
           .titulo-segundo
-            h2 Implementación de políticas de atención al cliente
-          p.mb-4 Cada empresa tiene características específicas y su propio modelo de negocios, por lo cual no es posible hablar de un modelo único, no obstante, se propone las siguientes pautas básicas para la redacción de este importante documento.
-          a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+            h4 Implementación de políticas de atención al cliente
+          p.mb-4 Cada empresa tiene características específicas y su propio modelo de negocios, por lo cual no es posible hablar de un modelo único, no obstante, se propones las siguientes pautas básicas para la redacción de este importante documento.
+          a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo2.pdf')" target="_blank" type="application/pdf")
             span(style="color: #000000 !important") Descargar
             i(style="color: #000000 !important").fas.fa-file-download
     .separador-custom
@@ -69,7 +69,7 @@
         figure
           img(src='@/assets/curso/img26.svg', style="width: 360px; margin: auto;")
       .col-lg-8
-        p El servicio al cliente es una de las prioridades en una empresa, ya que, si un cliente queda satisfecho con el servicio y atención que se le brinda y adicionalmente el producto es excelente, ésta persona regresará a comparar la empresa y difundirá buena información a sus contactos sobre la gran experiencia que ha tenido con la empresa, ese elemento de los prosumidores hoy es una realidad digital, alguien que sea bien atendido puede publicar una buena foto con comentario positivo en una red social influenciando a sus seguidores y amigos esto es una ventaja comparativa importante porque puede hacer la diferencia en cualquier empresa o negocio.
+        p El servicio al cliente es una de las prioridades en una empresa, ya que, si un cliente queda satisfecho con el servicio y atención que se le brinda y adicionalmente el producto es excelente, esta persona regresará a comparar la empresa y difundirá buena información a sus contactos sobre la gran experiencia que ha tenido con la empresa, ese elemento de los prosumidores hoy es una realidad digital, alguien que sea bien atendido puede publicar una buena foto con comentario positivo en una red social influenciando a sus seguidores y amigos, esto es una ventaja comparativa importante porque puede hacer la diferencia en cualquier empresa o negocio.
         p.mb-0 El servicio al cliente es una herramienta que tiene la empresa para catapultar su crecimiento en manera exponencial, está demostrado que la mejor propuesta de valor de cualquier empresa, es el servicio, inclusive por sobre el precio comercial y las promociones.
     .separador-custom
     #t_3_3
@@ -103,13 +103,13 @@
             figure
               img(src='@/assets/curso/img29.svg', alt='Texto que describa la imagen')
         .h2.text-center Cuantitativamente
-        p se ha demostrado el alto costo que implica conseguir nuevos clientes. Se estima que conseguir un cliente nuevo conlleva diez veces el costo de conservar un cliente.
+        p Se ha demostrado el alto costo que implica conseguir nuevos clientes. Se estima que conseguir un cliente nuevo conlleva diez veces el costo de conservar un cliente.
     .separador-custom
     #t_3_4
     .titulo-segundo
       h2 3.4 Comunicación con los clientes
     p La base de una estrategia es transmitir cierta información para lograr un objetivo específico. Ya sea una empresa que habla con la audiencia o un proveedor que habla con los clientes, la buena comunicación nos permite conseguir nuestros objetivos: atraer clientes, avanzar en el proceso o solucionar problemas concretos.
-    p Según #[span(style="background-color: #FFEAE7; padding: 2px;") Velasco, Montoya & Montoya (2011), “la información para el consumidor cada vez constituirá un elemento más esencial de sus derechos” (p.158)], la tendencia en este sentido en época de TIC es que el cliente debe estar informado, escuchado, bien tratado y reconocido; con más experiencias en todos los sentidos que de las que puede hablar en el momento a una comunidad con ganas de oír también.
+    p Según #[span(style="background-color: #D9F8F8; padding: 2px;") Velasco, Montoya & Montoya (2011), “la información para el consumidor cada vez constituirá un elemento más esencial de sus derechos” (p.158)], la tendencia en este sentido en época de TIC es que el cliente debe estar informado, escuchado, bien tratado y reconocido; con más experiencias en todos los sentidos que de las que puede hablar en el momento a una comunidad con ganas de oír también.
     p Teniendo en cuenta que las organizaciones deben seguir una orientación al consumidor, en cuanto a la calidad de los productos y servicios, pueden considerarse las siguientes dimensiones desde el punto de vista de los clientes :
     .row.mb-5
       .col-md-6.mb-4.d-flex
@@ -164,13 +164,13 @@
     .separador-custom
     #t_3_5
     .titulo-segundo
-      h2 3.5	CRM- Administración de las relaciones con los clientes
+      h2 3.5 CRM - Administración de las relaciones con los clientes
     .row.justify-content-center.mb-5
       .col-10
         .bloque-texto-d.color-secundario.p-4.mb-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            span.p.text-regular El CRM (Customer Relationship Management), o la Gestión de las relaciones con el cliente, es una herramienta tecnológica que permite un conocimiento estratégico de los clientes y sus preferencias, así como un manejo eficiente de la información de ellos dentro de la organización con el firme propósito que pueda haber un desarrollo adecuado de todos los procesos internos que estén representados en la capacidad de retroalimentación y medición de resultados de negocios. (p.130)
+            span.p.text-regular El CRM (Customer Relationship Management), o la Gestión de las Relaciones con el Cliente, es una herramienta tecnológica que permite un conocimiento estratégico de los clientes y sus preferencias, así como un manejo eficiente de la información de ellos dentro de la organización con el firme propósito que pueda haber un desarrollo adecuado de todos los procesos internos que estén representados en la capacidad de retroalimentación y medición de resultados de negocios. (p.130)
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 Montoya y Boyero (2013)
@@ -246,7 +246,7 @@
             span.p.text-regular Para mejorar el servicio mediante la gestión de calidad, se debe medir su calidad, antes de programar y realizar cambios; para tal efecto, se requiere que estén suficientemente clarificados el servicio y el concepto de medida de la calidad, partiendo del hecho de que lo que no puede medirse no puede mejorarse. Ahora bien, la calidad de servicio viene dada por la proximidad entre el servicio esperado y el servicio percibido; de manera que la calidad de servicio mide el grado en que los requisitos deseados por el cliente son percibidos por él tras forjarse una impresión del servicio recibido. También se entiende que la calidad del servicio es una medida de la satisfacción del cliente, es decir, la percepción del cliente sobre el grado en que se han cumplido sus requisitos. (p.21)
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 Briceño & García (2008
+            .h5.mb-0 Briceño & García (2008)
     p.mb-5 Fabricar un servicio desde el punto de vista conceptual, parece poco probable, para que ello ocurra, intervienen en el proceso de fabricación de un servicio diferentes elementos y recursos que son propios de la organización.
     .row.justify-content-center.mb-5
       .col-8
@@ -260,23 +260,23 @@
           li 
             i.fas.fa-angle-right(style="color: #FE7062")
             span #[b Cliente] 
-            | (consumidor, implicado en la fabricación del servicio)
+              | (consumidor, implicado en la fabricación del servicio)
           li 
             i.fas.fa-angle-right(style="color: #FE7062")
             span #[b Personal en contacto] 
-            | (persona en contacto directo con el cliente)
+              | (persona en contacto directo con el cliente)
           li 
             i.fas.fa-angle-right(style="color: #FE7062")
             span #[b Servicio] 
-            | (este resultado constituye el beneficio que debe satisfacer la necesidad del cliente)
+              | (este resultado constituye el beneficio que debe satisfacer la necesidad del cliente)
           li 
             i.fas.fa-angle-right(style="color: #FE7062")
             span #[b Sistema de organización interna] 
-            | (no visible para el cliente, funciones clásicas de la empresa)
+              | (no visible para el cliente, funciones clásicas de la empresa)
           li 
             i.fas.fa-angle-right(style="color: #FE7062")
             span #[b Otros clientes] 
-            | (intercambio de comunicación entre clientes)
+              | (intercambio de comunicación entre clientes)
 
 </template>
 

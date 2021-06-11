@@ -23,21 +23,25 @@
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-5
       .row(titulo="Encuestas")
         .col-12
-          p La encuesta de satisfacción es el método más clásico y utilizado para conocer qué piensan los clientes de nuestra organización. Se utilizan preguntas que deberían estar enfocadas a la experiencia de compra, capacidad que tiene nuestro producto/servicio para resolver los problemas o necesidades, calidad del producto o servicio entregado, cumplimiento de plazos en la entrega del producto/ servicio, cualquier otra valoración acerca de nuestra marca.
+          p La encuesta de satisfacción es el método más clásico y utilizado para conocer qué piensan los clientes de nuestra organización. Se utilizan preguntas que deberían estar enfocadas a la experiencia de compra, capacidad que tiene nuestro producto/servicio para resolver los problemas o necesidades, calidad del producto o servicio entregado, cumplimiento de plazos en la entrega del producto/servicio, cualquier otra valoración acerca de nuestra marca.
           p.mb-4 Existen diferentes tipos de encuestas como:
           ul.lista-ul
             li 
               i.fas.fa-angle-right(style="color: #FE7062")
-              | Encuestas de satisfacción a clientes reales históricos: consiste en la realización de encuestas mediante cuestionarios de satisfacción a tres tipos de clientes: clientes nuevos, clientes que están reduciendo su volumen de compra y clientes que han dejado de consumir nuestro producto.
+              span #[b Encuestas de satisfacción a clientes reales históricos: ]
+                |consiste en la realización de encuestas mediante cuestionarios de satisfacción a tres tipos de clientes: clientes nuevos, clientes que están reduciendo su volumen de compra y clientes que han dejado de consumir nuestro producto.
             li 
               i.fas.fa-angle-right(style="color: #FE7062")
-              | Encuestas de satisfacción: consiste en realizar encuestas de satisfacción mediante cuestionarios cortos a clientes de la empresa seleccionados a partir de criterios objetivos previamente definidos que nos permitan obtener la opinión de nuestros clientes con posterioridad a la compra del producto o servicio.
+              span #[b Encuestas de satisfacción: ]
+                |consiste en realizar encuestas de satisfacción mediante cuestionarios cortos a clientes de la empresa seleccionados a partir de criterios objetivos previamente definidos que nos permitan obtener la opinión de nuestros clientes con posterioridad a la compra del producto o servicio.
             li 
               i.fas.fa-angle-right(style="color: #FE7062")
-              | Encuestas telefónicas: antes de realizar una entrevista telefónica, debemos preguntarle al cliente si tiene tiempo de responderla.
+              span #[b Encuestas telefónicas: ]
+                |antes de realizar una entrevista telefónica, debemos preguntarle al cliente si tiene tiempo de responderla.
             li 
               i.fas.fa-angle-right(style="color: #FE7062")
-              | Encuestas al personal: en los casos en que determinados empleados estén en contacto directo con el cliente, podemos realizar encuestas a estos empleados con el fin de obtener una información directa sobre su opinión.
+              span #[b Encuestas al personal: ]
+                |en los casos en que determinados empleados estén en contacto directo con el cliente, podemos realizar encuestas a estos empleados con el fin de obtener una información directa sobre su opinión.
       div(titulo="Quejas y sugerencias")
         .row.align-items-start
           .col-12
@@ -66,14 +70,14 @@
     #t_6_2
     .titulo-segundo
       h2 6.2 Técnicas de evaluación del servicio
-    p.mb-5 Las técnicas de medición y evaluación del servicio existen varios instrumentos que permiten consignar la percepción y satisfacción del cliente a diferentes escalas.
+    p.mb-5 En las técnicas de medición y evaluación del servicio existen varios instrumentos que permiten consignar la percepción y satisfacción del cliente a diferentes escalas.
     .titulo-quinto.color-acento-contenido
       h4 Técnicas de evaluación de servicio al cliente
     .row.justify-content-center.mb-5 
       .col-10
         .tabla-a.color-acento-botones
           table
-            caption Nota. Adaptado y modificado de Questionpro (2021)
+            caption Nota. Adaptado y modificado de Questionpro (2021).
             thead
               tr
                 th Indicador
@@ -83,7 +87,7 @@
               tr
                 td.bg-color1 Satisfacción general
                 td.bg-color1(rowspan="5") Las encuestas de satisfacción del cliente son herramientas que te ayudan a comprobar los niveles de satisfacción.
-                  p.mt-4 Se determina haciendo una pregunta a los clientes, “En una escala de 0-10 (donde 0 es el más bajo y 10 el más alto)
+                  p.mt-4 Se determina haciendo una pregunta a los clientes, “En una escala de 0-10 (donde 0 es el más bajo y 10 el más alto).
                 td.bg-color1 Ayuda a comprender qué tan satisfechos se encuentran en general.
               tr
                 td Número de quejas recibidas
@@ -101,7 +105,7 @@
     #t_6_3
     .titulo-segundo
       h2 6.3 Indicadores de gestión del servicio al cliente (medición del servicio)
-    p Los indicadores de servicio o KPIs (Key Performance Indicator) permiten conocer la calidad de los productos o servicios que se comercializan en un mercado. La mejor forma de hacerlo es preguntando a los clientes sobre su nivel de satisfacción.
+    p Los #[b indicadores de servicio] o #[b KPIs] (#[i Key Performance Indicator]) permiten conocer la calidad de los productos o servicios que se comercializan en un mercado. La mejor forma de hacerlo es preguntando a los clientes sobre su nivel de satisfacción.
     p.mb-5 #[span(style="background-color: #FFEAE7; padding: 2px;") Mora (2008), indica que “Los KPIs de servicio al cliente son métricas que se encargan de medir el rendimiento y la forma en la que el equipo enfoca el soporte y en la experiencia del consumidor y administra sus labores” (parr.3);] estos elementos permiten unas mediciones que se pueden monitorear y analizar constantemente buscando identificar más oportunidades de mejora en busca de ofrecer la mejor experiencia a cada cliente.
     .h4 Beneficios de tener KPIs de servicio al cliente
     .row.align-items-center.mb-5
@@ -135,7 +139,7 @@
       .col-10
         .tabla-a.color-acento-botones
           table
-            caption Nota. Adaptado y modificado de Questionpro (2021)
+            caption Nota. Adaptado y modificado de Questionpro (2021).
             thead
               tr
                 th Indicador
@@ -144,47 +148,47 @@
             tbody
               tr
                 td.bg-color1 Nivel de cumplimiento entregas a clientes
-                td.bg-color1 Total de pedidos no entregados a tiempo/Total de pedidos despachados
+                td.bg-color1 Total de pedidos no entregados a tiempo / Total de pedidos despachados
                 td.bg-color1 Calcular el porcentaje real de las entregas oportunas y efectivas a los clientes.
               tr
                 td Calidad del servicio
-                td Personal no adecuado/Personal adecuado
+                td Personal no adecuado / Personal adecuado
                 td Establece un estándar en la atención al cliente.
               tr
                 td.bg-color1 Indicador de rotación al cliente
-                td.bg-color1 Número de clientes perdidos/Número total de clientes(periodo) X 100
+                td.bg-color1 Número de clientes perdidos / Número total de clientes(periodo) X 100
                 td.bg-color1 Mide cuando las personas dejan de comprar productos o de utilizar los servicios de una marca.
               tr
                 td Nivel de servicio
-                td Llamadas atendidas antes de x segundos/ Llamadas recibidas
+                td Llamadas atendidas antes de x segundos / Llamadas recibidas
                 td Permite conocer la percepción de servicio respecto a las llamadas de los clientes.
               tr
                 td.bg-color1 Tasa de retención de clientes
-                td.bg-color1 Número de clientes al final del periodo – Número de nuevos clientes/ Número de clientes al inicio del periodo X 100
+                td.bg-color1 Número de clientes al final del periodo – Número de nuevos clientes / Número de clientes al inicio del periodo X 100
                 td.bg-color1 Ayuda a conocer si los clientes se encuentran contentos con el servicio y se mantendrán fieles a la marca.
     .separador-custom
     #t_6_4
     .titulo-segundo
-      h2 6.4 Sistemas de Gestión de Calidad-ISO 9001
-    p Normas ISO (2021) La norma Internacional ISO 9001 está enfocada a la consecución de la calidad en una organización mediante la implementación de un método o Sistema de Gestión de la Calidad (SGC) Esta norma se ha convertido desde el año 2002 en un referente de la calidad a nivel mundial. 
+      h2 6.4 Sistemas de Gestión de Calidad - ISO 9001
+    p Normas ISO (2021). La norma internacional ISO 9001 está enfocada a la consecución de la calidad en una organización mediante la implementación de un método o Sistema de Gestión de la Calidad (SGC). Esta norma se ha convertido desde el año 2002 en un referente de la calidad a nivel mundial. 
     p.mb-4 En la norma ISO 9001 se establecen los requisitos de un Sistema de Gestión de la Calidad, que permiten a una empresa demostrar su capacidad de satisfacer los requisitos del cliente, de los proveedores y los diferentes colaboradores, el certificado ISO 9001 es el certificado de la norma ISO más común y reconocida a nivel nacional e internacional.
     .row.justify-content-center.mb-5
       .col-lg-8
         figure
           img(src='@/assets/curso/img57.svg', style="width: 1000px; margin: auto;")
-        figcaption Nota. Modificado de Normas ISO (2021)
-    p La implementación de una ISO 9001 es sin duda, una estrategia de diferenciación de una empresa con respecto a las demás y aventajar a la competencia en un mercado competitivo, demostrando que la gestión de la empresa se rige por los estándares de calidad que incorpora Norma ISO 9001.
+        figcaption.mt-4 Nota. Modificado de Normas ISO (2021).
+    p La implementación de una ISO 9001 es sin duda, una estrategia de diferenciación de una empresa con respecto a las demás y aventajar a la competencia en un mercado competitivo, demostrando que la gestión de la empresa se rige por los estándares de calidad que incorpora la Norma ISO 9001.
     p.mb-4 Beneficios de la aplicación de ISO en una empresa:
     ul.lista-ul.mb-5
       li
         i.fas.fa-check(style="color: #FE7062")
-        | Eficiencia en los procesos o actividades de la Empresa. (Mejora de Costes)
+        | Eficiencia en los procesos o actividades de la empresa. (Mejora de costes).
       li
         i.fas.fa-check(style="color: #FE7062")
         | Mejora sustancial en la satisfacción de los clientes.
       li
         i.fas.fa-check(style="color: #FE7062")
-        | Herramienta de comunicación para mejorar la Imagen de la Empresa/marca.
+        | Herramienta de comunicación para mejorar la imagen de la empresa/marca.
       li
         i.fas.fa-check(style="color: #FE7062")
         | Aumento del acceso al mercado, sin límites de fronteras.
@@ -199,41 +203,41 @@
     .row.justify-content-center.mb-4
       .col-10
         .cajon1.color-primario1.p-4
-          p.mb-0 Y basados en el contexto que dan Marin-Garcia, Bautista-Poveda, & Garcia-Sabater (2014), se entiende que la mejora continua es un proceso planificado, organizado y sistemático de cambios incrementales en los procesos productivos, en los sistemas o en las prácticas de trabajo, que permiten mejorar algún indicador de rendimiento. Es aplicable en todo tipo de empresas y está basada en el ciclo de Deming, compuesto por cuatro fases: estudiar la situación actual y recoger los datos necesarios para proponer las sugerencias de mejora; poner en marcha las propuestas seleccionadas a modo de prueba; comprobar si la propuesta ensayada está proporcionando los resultados esperados; implementar y estandarizar la propuesta con las modificaciones necesarias.
+          p.mb-0 Y basados en el contexto que dan Marín-García, Bautista-Poveda, & García-Sabater (2014), se entiende que la mejora continua es un proceso planificado, organizado y sistemático de cambios incrementales en los procesos productivos, en los sistemas o en las prácticas de trabajo, que permiten mejorar algún indicador de rendimiento. Es aplicable en todo tipo de empresas y está basada en el ciclo de Deming, compuesto por cuatro fases: estudiar la situación actual y recoger los datos necesarios para proponer las sugerencias de mejora; poner en marcha las propuestas seleccionadas a modo de prueba; comprobar si la propuesta ensayada está proporcionando los resultados esperados; implementar y estandarizar la propuesta con las modificaciones necesarias.
     p.mb-5 Para ayudar a estos procesos complejos existen herramientas de mejora que facilitan el entendimiento del ciclo y sus partes, es por eso que existe el ciclo de Deming que es un proceso metodológico que tiene como objetivo aplicar a un proceso cualquiera una acción cíclica formada por cuatro pasos fundamentales Plan, Do, Check y Act. De igual manera, se le conoce como espiral de mejora continua o ciclo PHVA, debido a sus etapas Planificar, Hacer, Verificar y Actuar; como se puede apreciar en el siguiente gráfico:
     .row.mx-0.mb-5
       .col-6.col-lg-3.px-2.py-5.bg-colo2
         figure
           img(src='@/assets/curso/img58.svg', style="width: 80px;")
         .h4.mt-3.mb-5 Planificar
-        p.mt-5 Involucrar a la gente correcta
-        p Recopilar los datos disponibles
-        p Comprender las necesidades de los clientes
-        p Estudiar exhaustivamente el/los procesos involucrados
+        p.mt-5 Involucrar a la gente correcta.
+        p Recopilar los datos disponibles.
+        p Comprender las necesidades de los clientes.
+        p Estudiar exhaustivamente el/los procesos involucrados.
         p ¿Es el proceso capaz de cumplir las necesidades?
-        p Desarrollar el plan/entrenar al personal
+        p Desarrollar el plan/entrenar al personal.
       .col-6.col-lg-3.px-2.py-5.bg-colo2
         figure
           img(src='@/assets/curso/img58.svg', style="width: 80px;")
         .h4.mt-3.mb-5 Hacer
-        p.mt-5 Implementar la mejora/verificar las causas de los problemas
-        p Recopilar los datos apropiados
+        p.mt-5 Implementar la mejora/verificar las causas de los problemas.
+        p Recopilar los datos apropiados.
       .col-6.col-lg-3.px-2.py-5.bg-colo2
         figure
           img(src='@/assets/curso/img58.svg', style="width: 80px;")
         .h4.mt-3.mb-5 Verificar
-        p.mt-5 Analizar y desplegar los datos
+        p.mt-5 Analizar y desplegar los datos.
         p ¿Se han alcanzado los resultados deseados?
-        p Comprender y documentar las diferencias
-        p Revisar los problemas y errores
+        p Comprender y documentar las diferencias.
+        p Revisar los problemas y errores.
         p ¿Qué se aprendió?
         p ¿Qué queda aún por resolver?
       .col-6.col-lg-3.px-2.py-5.bg-colo2
         figure
           img(src='@/assets/curso/img58.svg', style="width: 80px;")
         .h4.mt-3.mb-5 Actuar
-        p.mt-5 Incorporar la mejora al proceso
-    p Este elemento de mejora continua se debe aplicar cada vez que se pueda en cada proceso de la empresa, por eso precisamente se llama “ciclo” porque no se detiene nunca mientras la empresa esté trabajando.
+        p.mt-5 Incorporar la mejora al proceso.
+    p Este elemento de mejora continua se debe aplicar cada vez que se pueda en cada proceso de la empresa, por eso precisamente se llama “ciclo” porque #[b no se detiene nunca] mientras la empresa esté trabajando.
 
 </template>
 

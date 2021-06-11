@@ -23,11 +23,11 @@
         LineaTiempoD
           .row(numero="1" titulo="Formulación de la estrategia")
             .col-12
-              p incluye desarrollar la misión y la visión, identificar las oportunidades y amenazas externas para la organización, determinar las fortalezas y debilidades internas, establecer los objetivos a largo plazo, generar estrategias alternativas y elegir las estrategias particulares que se habrán de seguir.
+              p Incluye desarrollar la misión y la visión, identificar las oportunidades y amenazas externas para la organización, determinar las fortalezas y debilidades internas, establecer los objetivos a largo plazo, generar estrategias alternativas y elegir las estrategias particulares que se habrán de seguir.
               p Entre los temas de la formulación de la estrategia están decidir qué nuevos proyectos emprender, cuales abandonar, la asignación de los recursos, si es recomendable entrar en mercados internacionales, etc.
           .row(numero="2" titulo="Implementación de la estrategia")
             .col-12
-              p requiere que la empresa establezca objetivos anuales, formule políticas, motive a los empleados y destine recursos para llevar a la practica la estrategia. La implementación de la estrategia implica desarrollar una cultura que la apoye, crear una estructura organizacional eficaz, elaborar presupuestos y utilizar sistemas de información.
+              p Requiere que la empresa establezca objetivos anuales, formule políticas, motive a los empleados y destine recursos para llevar a la práctica la estrategia. La implementación de la estrategia implica desarrollar una cultura que la apoye, crear una estructura organizacional eficaz, elaborar presupuestos y utilizar sistemas de información.
           .row(numero="3" titulo="Evaluación de la estrategia")
             .col-12
               p Es la etapa final de la planeación estratégica. Se necesita determinar si las estrategias implementadas están o no funcionando. Todas las estrategias son susceptibles a futuras modificaciones, ya que los factores externos e internos cambian de manera constante.
@@ -35,16 +35,13 @@
               ul.lista-ul--color
                 li 
                   i.fas.fa-atom(style="color: #FE7062")
-                  | Todo tipo de organización requiere de aprovisionarse, y las empresas o personas que suministran los productos o servicios se denominan proveedores.
+                  | Revizar los factores externos e internos que son la base de las estrategias actuales.
                 li 
                   i.fas.fa-atom(style="color: #FE7062")
-                  | Se deben realizar un proceso de búsqueda y selección de proveedores de bienes y servicios más adecuados a sus necesidades empresariales.
+                  | Medir el desempeño.
                 li 
                   i.fas.fa-atom(style="color: #FE7062")
-                  | El propósito es establecer una lista de las empresas que fabrican los productos que se requieren para solicitar la información y luego seleccionar la más adecuada a las necesidades de la empresa.
-                li 
-                  i.fas.fa-atom(style="color: #FE7062")
-                  | No es muy recomendable tener a un solo proveedor y hacerle todo el pedido que se necesita.
+                  | Realizar acciones correctivas.
     .separador-custom
     #t_2_2
     .titulo-segundo
@@ -52,7 +49,7 @@
     p.mb-4 Cada empresa intenta dejar un legado que se articula por su programa de calidad y servicio gracias a su propuesta de valor, estos son los valores corporativos que integran la filosofía de la empresa, esta filosofía marca el camino para no dejar de lado el objetivo de servicio y crecimiento constante. A continuación, se describen los valores corporativos básicos con los que cada empresa debe izar su estandarte:
     TabsA.color-acento-botones.mb-5
       .tarjeta.color-acento-botones--borde.p-4(titulo="Misión empresarial")
-        p La misión habla sobre declaraciones perdurables del propósito que distingue a una compañía de otras similares. Es una proclama que describe el motivo o la razón de ser de una organización. También ayuda a identificar el alcance que tienen que tienen las operaciones de una empresa en términos del producto y del mercado. Debe estar definida de manera precisa y concreta para guiar al grupo de trabajo en el día a día.
+        p La misión habla sobre declaraciones perdurables del propósito que distingue a una compañía de otras similares. Es una proclama que describe el motivo o la razón de ser de una organización. También ayuda a identificar el alcance que tienen las operaciones de una empresa en términos del producto y del mercado. Debe estar definida de manera precisa y concreta para guiar al grupo de trabajo en el día a día.
         p.mb-4 Preguntas orientadoras para redactar una misión que deben ser resueltas por los directivos de la empresa:
         .row
           .col-11
@@ -100,12 +97,12 @@
                 i.fas.fa-angle-right(style="color: #FE7062")
                 | ¿Qué se desea aportar a la sociedad a futuro?
       .tarjeta.color-acento-botones--borde.p-4(titulo="Principios y valores empresariales")
-        p.mb-4 Son los medios que permiten alcanzar los objetivos anuales. Las políticas son las guías para la toma de decisiones y para manejar situaciones repetitivas o recurrentes, incluyen directrices, reglas y procedimientos establecidos para apoyar los esfuerzos dirigidos al logro de los objetivos enunciados.
+        p.mb-4 Constituyen un elemento trascendental en la organización que junto a las declaraciones de Misión y Visión forman el marco de dirección.
         .row.justify-content-center.mb-4
           .col-lg-12
             .cajon.color-primario.p-4
-              p.mb-0 Las políticas se establecen a nivel corporativo para aplicarse a toda la organización. Estas no sólo incluyen normas, conciernen a ella también las responsabilidades que a cada área y miembro le corresponden en el organigrama, así como relaciona la filosofía corporativa, la identidad empresarial y, claro, los valores y procedimientos que orienten la acción de una empresa, tanto de cara al exterior como a nivel interno.
-        p Por tanto, no existe un tipo único de política empresarial, se puede decir que el número de organizaciones o entidades activas es grande, aunque siempre apuntan al mismo propósito: consolidar negocios en un mercado específico, dar visibilidad a los clientes y diferenciarse de las marcas competidoras.
+              p.mb-0 Los principios y valores se refieren a las creencias y convicciones que influyen decisivamente en el comportamiento de los miembros de una organización. Estos principios orientan y determinan cómo los miembros de una organización perciben e interpretan los problemas y toman decisiones.
+        p Los principios y valores se refieren a creencias que tienen una influencia decisiva en el comportamiento de los miembros de una organización; estos principios guían y determinan, cómo los miembros de la organización perciben e interpretan los problemas y toman decisiones.
       .tarjeta.color-acento-botones--borde.p-4(titulo="Políticas empresariales")
         .row.align-items-center
           .col-lg-6
@@ -115,7 +112,7 @@
           .col-lg-6
             figure
               img(src='@/assets/curso/img16.svg', style="width: 320px; margin: auto;")
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Principios y valores empresariales")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Propuesta o promesa de valor")
         .bloque-texto-d.color-secundario.p-4.mb-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
@@ -124,7 +121,9 @@
           .bloque-texto-d__autor 
             .h5.mb-0 Mejía (2003)
         p Una definición dentro de la propuesta de valor es la muestra de acción de la empresa frente a las demás ofertas del mercado, las cuales pueden ser referentes para elementos positivos o no tan positivos que hagan del comportamiento de la empresa una propuesta favorable para el cliente y para eso se requiere revisar los siguientes elementos desde cada departamento de la empresa.
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Elementos a validar en una propuesta de valor")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Elementos a validar")
+        .titulo-quinto.color-acento-contenido
+          h4 Elementos a validar en una propuesta de valor
         figure
           img(src='@/assets/curso/img17.svg', style="width: 700px; margin: auto;")
     .separador-custom
@@ -145,7 +144,7 @@
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Estrategia de nivel corporativo")
         .col-12
-          p.mb-4 La estrategia más amplia, se enfoca en decidir el rumbo que debe seguir toda una organización para desarrollar los negocios y las metas que se determina. Esta estrategia se sub-divide en tres apartados:
+          p.mb-4 La estrategia más amplia, se enfoca en decidir el rumbo que debe seguir toda una organización para desarrollar los negocios y las metas que se determinan. Esta estrategia se sub-divide en tres apartados:
           .row.justify-content-center
             .col-11
               ul.lista-ul--color

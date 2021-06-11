@@ -23,7 +23,7 @@
               img(src='@/assets/curso/img44.svg', alt='Texto que describa la imagen')
           .col-lg-6.mb-4.mb-md-0
             p.mb-0 El trabajar de forma remota planteó muchos desafíos en la experiencia de cliente, muchas empresas han implementado procesos y tecnología para brindar un soporte eficiente y eficaz en un entorno remoto.
-      .py-3.py-md-4(titulo="Inteligencia Artificial – Bots")
+      .py-3.py-md-4(titulo="Inteligencia artificial – Bots")
         .row.align-items-center.justify-content-center
           .col-lg-4
             figure
@@ -43,7 +43,7 @@
             figure
               img(src='@/assets/curso/img47.svg', alt='Texto que describa la imagen')
           .col-lg-6.mb-4.mb-md-0
-            p.mb-0 Cuando el cliente quiere una respuesta rápida, si el chat en vivo no se encuentra disponible, entonces este es el modelo de customer service al que van dirigirse: las redes sociales. Con la finalidad de obtener una rápida respuesta.
+            p.mb-0 Cuando el cliente quiere una respuesta rápida, si el chat en vivo no se encuentra disponible, entonces este es el modelo de customer service al que van a dirigirse: las redes sociales. Con la finalidad de obtener una rápida respuesta.
       .py-3.py-md-4(titulo="Chat en vivo")
         .row.align-items-center.justify-content-center
           .col-lg-4
@@ -62,7 +62,7 @@
       .col-10
         figure
           img(src='@/assets/curso/img49.svg', style="width: 1500px; margin: auto;")
-        figcaption.mt-3.mb-5 Nota. Adaptado y modificado de López (2001)
+        figcaption.mt-3.mb-5 Nota. Adaptado y modificado de López (2001).
         .row
           .col-6
             .h4 Procesos a mejorar
@@ -93,7 +93,7 @@
             ul.lista-ul
               li 
                 i.fas.fa-angle-right(style="color: #FE7062")
-                | La optimización de los procesos logísticos y comerciales genera una minimización de costos: Mayor valor por menor precio, y la maximización de la Satisfacción del Consumidor.
+                | La optimización de los procesos logísticos y comerciales genera una minimización de costos: mayor valor por menor precio, y la maximización de la satisfacción del consumidor.
               li 
                 i.fas.fa-angle-right(style="color: #FE7062")
                 | Las compañías obtienen una visión compartida que les permite trabajar juntas de modo efectivo.
@@ -106,7 +106,7 @@
     .separador-custom
     #t_5_2
     .titulo-segundo
-      h2 5.2 Servicio postventa
+      h2 5.2 Servicio post-venta
     p Se refiere al seguimiento y atención al cliente que se da después de la adquisición de un producto y/o servicio, y es tan fundamental como las demás estrategias que se implementan. La implementación de este proceso requiere de mucho tiempo y dedicación, y es una excelente manera de fidelizar a los clientes y abre la posibilidad de conseguir nuevos prospectos.
     p.mb-5 La importancia del servicio postventa se enmarca en:
     .row.justify-content-center.mb-4
@@ -124,7 +124,7 @@
           li 
             i.fas.fa-angle-right(style="color: #FE7062")
             | El contacto con un cliente satisfecho con su compra genera la posibilidad de generar nuevas oportunidades de compras y aumenta el interés futuro hacia las ofertas y promociones, creando clientes recurrentes y cada vez más satisfechos.
-    p.mb-5 Dentro del servicio post venta, pueden identificarse algunas áreas que son importantes atender después de la compra:
+    p.mb-5 Dentro del servicio post venta, pueden identificarse algunas áreas que es importante atender después de la compra:
     TabsA.color-acento-botones.mb-5
       .tarjeta.color-acento-botones--borde.p-4(titulo="Promoción")
         .row.align-items-center
@@ -158,11 +158,11 @@
     #t_5_3
     .titulo-segundo
       h2 5.3 La logística del servicio al cliente - Output cadena de suministros
-    p.mb-4 #[span(style="background-color: #E6FAF9; padding: 2px;") Para Economipedia (2020), “el output es el conjunto de bienes y servicios que obtiene una empresa o industria al combinar distintos factores de producción” (párr.1)] este concepto se traduce en las acciones que realiza la cadena de suministros y logística en búsqueda de la producción de un producto y/o servicio que va a llegar al cliente quien que lo requiere para suplir una necesidad.
+    p.mb-4 #[span(style="background-color: #E6FAF9; padding: 2px;") Para Economipedia (2020), “el output es el conjunto de bienes y servicios que obtiene una empresa o industria al combinar distintos factores de producción” (párr.1).] Este concepto se traduce en las acciones que realiza la cadena de suministros y logística en búsqueda de la producción de un producto y/o servicio que va a llegar al cliente quien lo requiere para suplir una necesidad.
     .row.justify-content-center.mb-4
       .col-10
         .cajon1.color-primario1.p-4
-          p.mb-0 En otras palabras, el término output se refiere a toda mercancía que se consigue a partir de un proceso productivo; esto, con el fin de ofrecer en el mercado a cambio de una contraprestación.
+          p.mb-0 En otras palabras, el término output se refiere a toda mercancía que se consigue a partir de un proceso productivo; esto, con el fin de ofrecerla en el mercado a cambio de una contraprestación.
     p Ahora bien, su aplicación al nivel del servicio al cliente está directamente relacionado con la gestión y efectividad de la gestión logística de todos los integrantes del canal: flujos de información, de materiales, de productos, etc. La logística del servicio al cliente se puede entender como todas las acciones que hace una empresa para que su cadena de suministros ofrezca lo mejor para sus clientes y mercado objetivo.
     p.mb-5 Para llevar a cabo el diseño del servicio al cliente se deben tomar en consideración un conjunto de principios, tales como:
     .row.justify-content-center
