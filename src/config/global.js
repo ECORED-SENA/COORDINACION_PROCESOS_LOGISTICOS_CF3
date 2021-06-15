@@ -293,7 +293,7 @@ export default {
       },
       {
         nombre: 'Jhon Jairo Urueta Álvarez',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },

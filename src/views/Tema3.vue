@@ -56,7 +56,7 @@
         .col-md.col-lg-6
           .titulo-segundo
             h4 Implementación de políticas de atención al cliente
-          p.mb-4 Cada empresa tiene características específicas y su propio modelo de negocios, por lo cual no es posible hablar de un modelo único, no obstante, se propones las siguientes pautas básicas para la redacción de este importante documento.
+          p.mb-4 Cada empresa tiene características específicas y su propio modelo de negocios, por lo cual no es posible hablar de un modelo único, no obstante, se proponen las siguientes pautas básicas para la redacción de este importante documento.
           a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo2.pdf')" target="_blank" type="application/pdf")
             span(style="color: #000000 !important") Descargar
             i(style="color: #000000 !important").fas.fa-file-download

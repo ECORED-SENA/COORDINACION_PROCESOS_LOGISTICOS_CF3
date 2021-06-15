@@ -76,7 +76,7 @@
           .tarjeta.color-primario1
             .p-4
               .h2.text-center Trazabilidad ascendente (hacia atrás)
-              p Saber cuáles son los productos que son recibidos en la empresa, acotados con alguna información de trazabilidad (lote, fecha de caducidad/consumo preferente) y quienes son los proveedores de esos productos.
+              p Saber cuáles son los productos que son recibidos en la empresa, acotados con alguna información de trazabilidad (lote, fecha de caducidad/consumo preferente) y quiénes son los proveedores de esos productos.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/img41.svg' alt='AvatarTop')
