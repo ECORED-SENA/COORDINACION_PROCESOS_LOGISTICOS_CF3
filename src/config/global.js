@@ -114,7 +114,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.2',
-            titulo: 'Trazabilidad en el servicio cliente',
+            titulo: 'Trazabilidad en el servicio al cliente',
             hash: 't_4_2',
           },
         ],
