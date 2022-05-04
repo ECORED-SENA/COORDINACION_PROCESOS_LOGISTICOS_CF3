@@ -210,11 +210,7 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -336,7 +332,7 @@ export default {
     },
     {
       referencia:
-        'EAE Business School - Harvard Deusto. (2020). EAE Business School - Harvard Deusto.',
+        'EAE Business School. (2021). Los 11 tipos de clientes en el mercado y sus características. ',
       link:
         'https://retos-directivos.eae.es/cuales-son-los-principales-tipos-de-clientes-del-mercado-irigaray/',
     },
@@ -345,8 +341,7 @@ export default {
       link: 'https://economipedia.com/definiciones/output.html',
     },
     {
-      referencia:
-        'Jauregui, A. (2018). Cadena cliente-proveedor: en qué consiste y ejemplo.',
+      referencia: 'Cajal, A. (2021). Cadena cliente-proveedor. ',
       link: 'https://www.lifeder.com/cadena-cliente-proveedor/',
     },
     {

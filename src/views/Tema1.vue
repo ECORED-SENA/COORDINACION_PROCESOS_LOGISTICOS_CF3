@@ -74,7 +74,7 @@
               img(src='@/assets/curso/img8.svg', style="width: 450px; margin: auto;")
           .col-lg-6
             p.mb-5 Dada la importancia del entendimiento del cliente se hace necesario conocerlo y casi que descubrir ¿qué va a querer?, esas proyecciones se hacen con la experiencia y varios años de estudio de las personalidades como lo puedes ver en la siguiente tabla.
-            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo1.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('downloads/Anexo1.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
